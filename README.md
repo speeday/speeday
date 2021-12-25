@@ -6,6 +6,8 @@
 
 [![Speeday's GitHub stats](https://github-readme-stats.vercel.app/api?username=speeday&show_icons=true&theme=tokyonight)](https://github.com/speeday/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speeday&layout=compact)](https://github.com/speeday/github-readme-stats)
+
 <br />
 
 ## Daily Dev
@@ -14,7 +16,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speeday&layout=compact)](https://github.com/speeday/github-readme-stats)
+
 
 ## Languages and Tools:
 
