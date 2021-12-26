@@ -62,6 +62,13 @@
 
 [<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" />][webpack]
 
+[<img align="left" alt="GSAP" width="26px" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" />][gsap]
+
+[<img align="left" alt="trello" width="26px" src="https://mpng.subpng.com/20181201/ib/kisspng-portable-network-graphics-trello-scalable-vector-g-5c025368ae6bb9.4395252315436562967144.jpg" />][trello]
+
+[<img align="left" alt="notion" width="26px" src="https://icons-for-free.com/iconfiles/png/512/notion-1324440204874385945.png" />][notion]
+
+
 <br />
 <br />
 
@@ -85,3 +92,6 @@
 [interviewbit]: https://www.interviewbit.com/profile/speeday
 [devto]: https://dev.to/speeday
 [freecodecamp]: https://www.freecodecamp.org/fccbf94fdaa-1341-47f8-9a7e-a3d2de8dc0d1
+[gsap]: https://greensock.com/gsap/
+[trello]: https://trello.com/
+[notion]: https://www.notion.so/
