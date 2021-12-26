@@ -17,6 +17,18 @@
 <br />
 
 
+## Coding Platform:-
+[<img align="left" alt="Angular" width="26px" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />][leetcode]
+
+[<img align="left" alt="Angular" width="26px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png" />][stackoverflow]
+
+[<img align="left" alt="Angular" width="26px" src="https://media.glassdoor.com/sqll/1605105/interviewbit-squarelogo-1492428049653.png" />][interviewbit]
+
+[<img align="left" alt="Angular" width="26px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />][devto]
+
+[<img align="left" alt="Angular" width="26px" src="https://www.freecodecamp.org/favicon-32x32.png" />][freecodecamp]
+
+<br />
 
 ## Languages and Tools:
 
@@ -68,3 +80,8 @@
 [sass]: https://sass-lang.com
 [typescript]: https://www.typescriptlang.org/
 [webpack]: https://webpack.js.org
+[leetcode]: https://leetcode.com/ydeepak1/
+[stackoverflow]: https://stackoverflow.com/users/2789979/speeday
+[interviewbit]: https://www.interviewbit.com/profile/speeday
+[devto]: https://dev.to/speeday
+[freecodecamp]: https://www.freecodecamp.org/fccbf94fdaa-1341-47f8-9a7e-a3d2de8dc0d1
